@@ -1,0 +1,19 @@
+{
+  "name": "yup.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XenoYh/yh.git"
+  },
+  "author": "hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XenoYh/yh/issues"
+  },
+  "homepage": "https://github.com/XenoYh/yh#readme"
+}
